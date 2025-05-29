@@ -1,0 +1,32 @@
+		1) ARRAY : SEQUENCE OF COLLECTION OF ELEMENTS OF SAME DATA TYPE.
+		2) STRING --> A CHARCTER ARRAY --> SEQUENCE OF COLLECTION OF CHARACTER/CHAR DATA TYPE...
+
+											TYPES OF ARRAY
+		--------------------------------------------------------------------------------------------
+		I) 1D ARRAY --> ONE DIMENSIONAL ARRAY
+			--> MARKS[5] --> TOTAL INPUTS WILL BE 5;	
+
+		II) 2D ARRAY --> TWO DIMENSIONAL ARRAY
+			--> CLASS[2][4]--> TOTAL INPUTS WILL BE 8..
+				--> FOR EACH STUDENT MARKS OF 4 SUBJECTS WILL BE THERE..
+
+				-----------------------------------------------------------------
+				CLASS[0]--> CLASS[0][0]-->CLASS[0][1]-->CLASS[0][2]-->CLASS[0][3] --> STUDENT 0 FINISHED
+				-----------------------------------------------------------------
+				CLASS[1]--> CLASS[1][0]-->CLASS[1][1]-->CLASS[1][2]-->CLASS[1][3] --> STUDENT 1 FINISHED
+				-----------------------------------------------------------------	
+			 
+		III) 3D ARRAY --> THREE DIMENSIONAL ARRAY
+			--> CLASS [2][3][4] -- TOTAL INPUTS WILL BE 24
+				--> FOR EACH CLASS 3 STUDENTS WILL BE THERE ..
+				--> FOR EACH STUDENTS 4 SUBJECTS MARKS WILL BE THERE..
+				
+				--------------------------------------------------------------------------------------------------
+				CLASS[0]--> CLASS[0][0] --> CLASS[0][0][0] --> CLASS[0][0][1] --> CLASS[0][0][2] --> CLASS[0][0][3]
+						--> CLASS[0][1] --> CLASS[0][1][0] --> CLASS[0][1][1] --> CLASS[0][1][2] --> CLASS[0][1][3]
+						--> CLASS[0][2] --> CLASS[0][2][0] --> CLASS[0][2][1] --> CLASS[0][2][2] --> CLASS[0][2][3]
+				---------------------------------------------------------------------------------------------------
+				CLASS[1]--> CLASS[1][0] --> CLASS[1][0][0] --> CLASS[1][0][1] --> CLASS[1][0][2] --> CLASS[1][0][3]
+						--> CLASS[1][1] --> CLASS[1][1][0] --> CLASS[1][1][1] --> CLASS[1][1][2] --> CLASS[1][1][3]
+						--> CLASS[1][2] --> CLASS[1][2][0] --> CLASS[1][2][1] --> CLASS[1][2][2] --> CLASS[1][2][3]
+				---------------------------------------------------------------------------------------------------

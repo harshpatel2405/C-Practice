@@ -1,0 +1,8 @@
+It is Used to Store the value assigned to it.
+Like a container Stores the data.
+Variable naming Convention Rules : 
+First Letter must be smallcase or uppercase letter 
+No digits or special characters are allowed.
+Only underscore ( _ ) is allowed from special characters as first letter. 
+Valid Variable names : harsh , _name , No, no1 , number23, etc.
+Invalid Variable name : 9Harsh,#8name , 99COntainer..
