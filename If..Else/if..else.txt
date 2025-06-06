@@ -1,0 +1,46 @@
+Conditionals : 
+Four types in if..else
+
+
+1) if (Only checks single condition...... and does not require any other case than its condition)
+--> Only using if 
+    if(condition)
+    {
+        //execution_body
+    }
+
+2) if..else (Here  , if condition fails then only else condition gets executed...)
+--> if(Condition)
+    {
+        //execution_body
+    }
+    else{
+        //execution body 
+        //Executs only if , if fails .....
+    }
+
+3) Ladder if..else (Use to check multiple conditions at a time... and here else gets executes when all conditions fails..)
+--> if(condition 1)
+    {
+        //execution_body
+    }else if(condition 2)
+    {
+        //execution_body
+    }else if(condition 2=3)
+    {
+        //execution_body
+    }else 
+    {
+        //execution body 
+        //Executs only if , if and all else if condition gets failed .....
+    }
+
+4) Nested if..else  (It is used to check condition inside another condition and inside another if , one can use any type of if.....)
+--> if (conditon 1)
+    {
+        if(condition 2)
+        {
+            //execution_body
+            //only executes if condition 1 gets true.
+        }
+    }
